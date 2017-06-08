@@ -15,7 +15,7 @@
 
            
            <div  class="caja">
-               <h1>Diseño y Desarrollo de Sitios Web Profesionales</h1>
+               <h1>Diseño y Desarrollo de Sitios Web Profesionaless</h1>
                <br /><br />
                <p>La importancia del diseño y desarrollo un sitio web hoy en día es esencial, así podrás hacer crecer tu negocio,empresa o institución. </p>
            </div>
